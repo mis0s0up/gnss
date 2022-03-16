@@ -1,0 +1,232 @@
+body {
+    font-family:  Satoshi-Black;
+  }
+      .dsFtvk {
+      padding: 1rem;
+      display: flex;
+      -webkit-box-pack: justify;
+      justify-content: space-between;
+      -webkit-box-align: center;
+      align-items: center;
+      background: rgb(28, 28, 28);
+      }
+      .fSKGtO {
+      text-align: left;
+      }
+      .bmykIh {
+      grid-column: 2 / auto;
+      width: 10%;
+      }
+      .hudvov {
+      color: white;
+      font-weight: 300;
+      text-transform: uppercase;
+      margin-left: 2rem;
+      font-size: 1rem;
+      }
+      .kolJum {
+      color: rgb(3, 186, 173);
+      font-weight: 300;
+      margin-left: 2rem;
+      font-size: 1.4rem;
+      }
+      .YbDZO {
+      text-align: center;
+      font-size: 1.2vw;
+      }
+      .jZknyc {
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      justify-content: center;
+      }
+      .fFWMM {
+      color: white;
+      text-transform: uppercase;
+      cursor: not-allowed;
+      font-size: 1rem;
+      }
+      .fEMNwD {
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      margin-left: 1rem;
+      }
+      .dRPkgf {
+      background: rgb(103, 202, 83);
+      color: black;
+      padding: 1rem 2rem;
+      font-size: 1rem;
+      border: 0px;
+      display: inline-block;
+      text-transform: uppercase !important;
+      cursor: pointer !important;
+      }
+      .hEItTc {
+      display: grid;
+      position: relative;
+      grid-template-columns: 0.33fr 1fr;
+      -webkit-box-align: center;
+      align-items: center;
+      background:  0% 0% / cover black;
+      }
+      .hSZwTw {
+      width: 100%;
+      height: 46vw;
+      background: url("3.html") 0% 0% / cover;
+      }
+      .kvfCak {
+      color: white;
+      padding: 4rem;
+      display: grid;
+      height: 100%;
+      }
+      .dWtYLN {
+      align-self: center;
+      }
+      .jHkUtz {
+      text-transform: uppercase;
+      font-size: 2vw;
+      }
+      .hYaqUq {
+      color: rgba(255, 255, 255, 0.6);
+      font-size: 1.1rem;
+      }
+      .dWtYLN {
+      align-self: center;
+      }
+      .ittOSK {
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      justify-content: center;
+      }
+      .XurKV {
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      justify-content: center;
+      }
+      .kvxoVx {
+      margin-right: 1rem;
+      }
+      .MTNXE {
+      font-size: 2vw;
+      }
+      .XurKV {
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      justify-content: center;
+      }
+      .hzidxS {
+      border: 0px;
+      background: transparent;
+      color: white;
+      font-size: 4vw;
+      cursor: pointer;
+      }
+      .bewwCK {
+      background: transparent;
+      border: 2px solid white;
+      text-align: center;
+      width: 10%;
+      margin-right: 2rem;
+      margin-left: 2rem;
+      font-size: 1rem;
+      padding: 1rem;
+      }
+      .hzidxS {
+      border: 0px;
+      background: transparent;
+      color: white;
+      font-size: 4vw;
+      cursor: pointer;
+      }
+      .fpflfx {
+      margin: 2rem 0px;
+      cursor: pointer;
+      text-transform: uppercase;
+      justify-self: self-start;
+      font-size: 1.5vw;
+      transition: all 0.2s ease 0s;
+      background: rgb(3, 186, 173) !important;
+      color: rgb(15, 15, 15) !important;
+      padding: 0.5rem 1.7rem !important;
+      border: 0px !important;
+      }
+      .dWtYLN {
+      align-self: center;
+      }
+      .bIQika {
+      text-align: center;
+      font-size: 1.5vw;
+      color: white;
+      }
+      .aFkCK {
+      font-size: 1.7rem;
+      }
+      .gBnRtE {
+      padding: 5rem;
+      }
+      .ebSVtn {
+      padding: 2rem;
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      justify-content: space-around;
+      background: #37e686;
+      text-transform: uppercase;
+      font-weight: 600;
+      border: 2px solid white;
+      }
+      .xtnST {
+      background: rgb(186, 3, 186);
+      font-size: 1.2vw;
+      padding: 0.5vw 3vw;
+      color: #1fd15b;
+      }
+      .fPWkCe {
+      padding: 2rem;
+      background: #60c941;
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-pack: justify;
+      justify-content: space-between;
+      }
+      .htpVhC {
+      color: white;
+      text-align: left;
+      }
+      .ceIgVl {
+      width: 10%;
+      }
+      .dFsRDr {
+      width: 100%;
+      }
+      .ijbaIi {
+      margin-left: 1rem;
+      }
+      .jMqqJK {
+      width: 15%;
+      }
+      @media screen and (max-width: 810px) {
+        .mint-wrap {
+          flex-direction: column;
+        }
+        .boonjie-hero-right {
+          margin-left: 20px;
+          margin-right:  20px;
+          margin-top:   30px;
+          border-radius:  15px!important;
+          margin-bottom:  50px;
+        }
+        img {
+          border-radius:  15px!important;
+        }
+      }
